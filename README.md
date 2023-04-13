@@ -1,0 +1,2 @@
+# testTeamsSimplifyTextAI
+only for learn
